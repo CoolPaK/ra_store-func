@@ -27,7 +27,7 @@
     "vite": "^5.4.10"
   },
   "description": "Homeworks",
-  "main": "index.js",
+  "main": "main.jsx",
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/CoolPaK/ra_store-func.git"
